@@ -1,0 +1,2 @@
+# GPS-trajectory-Data-Analysis-using-PySpark
+In this assignment, we are going to use PySpark to analyse the GPS trajectory dataset that was collected in the Geolife project (Microsoft Research Asia) over a period of five years by 100+ people. Each GPS trajectory in this dataset is represented by a sequence of time-stamped points, each of which contains the information of latitude, longitude and altitude.
